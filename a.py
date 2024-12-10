@@ -9,10 +9,10 @@ form_data = {
     "data[Attendance][0][board_row_id]": "3336604",
     "data[Attendance][0][board_column_id]": "2857816",
     "data[Attendance][0][is_valied]": "1",  # チェックボックスにチェックを入れる場合
-    "data[Attendance][1][board_row_id]": "3336605",
-    "data[Attendance][1][board_column_id]": "2857816",
+
+    "data[Member][name]": "yu",  # パスワード
     "data[Member][password]": "password123",  # パスワード
-    "data[Comment][body]": "コメントを入力します",  # コメント
+    "data[Comment][body]": "自動入力です",  # コメント
 }
 
 # ヘッダーの設定
